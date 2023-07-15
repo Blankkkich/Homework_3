@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+    color: blue;
+  }
+  
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.box {
+  background-color: #eee;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.box p {
+  color: red;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
